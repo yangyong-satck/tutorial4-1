@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7af7e6c1-b482-48a8-905b-5f152449a7f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CalcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Calc.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/CalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/CalcTest.class" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7af7e6c1-b482-48a8-905b-5f152449a7f8" name="Changes" comment="" />
+>>>>>>> d797ac7b4afe464069d7110809f6e159a226318e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.CalcTest.executor": "Run",
@@ -45,8 +50,25 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.tutorail4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tutorail4 [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/tut4/tutorial4/tutorial4-1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> d797ac7b4afe464069d7110809f6e159a226318e
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="tutorial4" />
@@ -78,7 +100,12 @@
       <option name="presentableId" value="Default" />
       <updated>1727334195152</updated>
       <workItem from="1727334196253" duration="310000" />
+<<<<<<< HEAD
       <workItem from="1727335926227" duration="253000" />
+=======
+      <workItem from="1727335912144" duration="21000" />
+      <workItem from="1727336210547" duration="3000" />
+>>>>>>> d797ac7b4afe464069d7110809f6e159a226318e
     </task>
     <servers />
   </component>
